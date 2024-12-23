@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bcd591cfa0a60d4d9d3fff8a9702882, type: 3}
+  m_Name: FbLevel1
+  m_EditorClassIdentifier: 
+  questions:
+  - {fileID: 11400000, guid: 74887664ffc7f1742a2de96198f52720, type: 2}
+  - {fileID: 11400000, guid: 88fa969faad95e146a72f9929a37c7da, type: 2}
+  - {fileID: 11400000, guid: 53f1526ce63ac934f8a315c7cc84b120, type: 2}
+  - {fileID: 11400000, guid: 14877d3bbf54a1648963c803c14530eb, type: 2}
+  - {fileID: 11400000, guid: 7caa4149a5cf420438e6170561956590, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bcd591cfa0a60d4d9d3fff8a9702882, type: 3}
+  m_Name: WorldLevel5
+  m_EditorClassIdentifier: 
+  questions:
+  - {fileID: 11400000, guid: c9d266a5b162e1a408301692bc165818, type: 2}
+  - {fileID: 11400000, guid: 7afb4837ba69c634b97b41e516261e36, type: 2}
+  - {fileID: 11400000, guid: 2a87b6f842fa6714e8d3745f88e39be0, type: 2}
+  - {fileID: 11400000, guid: 0e2d9dbad3246af40ac5d07ba5d85619, type: 2}
+  - {fileID: 11400000, guid: da951c065953afb4f9f8544e2b0c7ad4, type: 2}

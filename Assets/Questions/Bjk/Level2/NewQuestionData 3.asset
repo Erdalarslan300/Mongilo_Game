@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 213d49033bc42c0479f59452a2c89576, type: 3}
+  m_Name: NewQuestionData 3
+  m_EditorClassIdentifier: 
+  questionText: "Be\u015Fikta\u015F, 2019-2020 sezonunda S\xFCper Lig\u2019de hangi
+    teknik direkt\xF6r ile \u015Fampiyon olmu\u015Ftur?\n"
+  options:
+  - "A) \u015Eenol G\xFCne\u015F "
+  - "B) Sergen Yal\xE7\u0131n "
+  - "C) Y\u0131lmaz Vural "
+  - 'D) Mustafa Denizli '
+  correctOptionIndex: 1

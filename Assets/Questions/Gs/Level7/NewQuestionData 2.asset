@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 213d49033bc42c0479f59452a2c89576, type: 3}
+  m_Name: NewQuestionData 2
+  m_EditorClassIdentifier: 
+  questionText: "Galatasaray\u2019\u0131n sembol\xFC olan aslan fig\xFCr\xFC ilk
+    defa hangi d\xF6nemde kullan\u0131lmaya ba\u015Flanm\u0131\u015Ft\u0131r?\n"
+  options:
+  - 'A) 1905 '
+  - 'B) 1923 '
+  - 'C) 1950''ler '
+  - 'D) 1970''ler '
+  correctOptionIndex: 2

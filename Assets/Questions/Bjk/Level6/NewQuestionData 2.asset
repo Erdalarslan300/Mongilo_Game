@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 213d49033bc42c0479f59452a2c89576, type: 3}
+  m_Name: NewQuestionData 2
+  m_EditorClassIdentifier: 
+  questionText: "Be\u015Fikta\u015F'\u0131n 2003-2004 sezonunda kazand\u0131\u011F\u0131
+    S\xFCper Lig \u015Fampiyonlu\u011Funda tak\u0131m\u0131n ba\u015F\u0131nda hangi
+    teknik direkt\xF6r vard\u0131?\n"
+  options:
+  - 'A) Christoph Daum '
+  - 'B) Vicente Del Bosque '
+  - "C) \u015Eenol G\xFCne\u015F "
+  - "D) R\u0131za \xC7al\u0131mbay "
+  correctOptionIndex: 1

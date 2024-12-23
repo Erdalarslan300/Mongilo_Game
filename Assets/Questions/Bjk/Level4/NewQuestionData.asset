@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 213d49033bc42c0479f59452a2c89576, type: 3}
+  m_Name: NewQuestionData
+  m_EditorClassIdentifier: 
+  questionText: "Be\u015Fikta\u015F\u2019\u0131n ma\xE7lar\u0131n\u0131 oynad\u0131\u011F\u0131
+    stadyumun ad\u0131 nedir?\n"
+  options:
+  - "A) T\xFCrk Telekom Arena "
+  - "B) Fenerbah\xE7e \u015E\xFCkr\xFC Saraco\u011Flu Stadyumu "
+  - 'C) Vodafone Park '
+  - "D) Atat\xFCrk Olimpiyat Stadyumu "
+  correctOptionIndex: 2

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 213d49033bc42c0479f59452a2c89576, type: 3}
+  m_Name: NewQuestionData 2
+  m_EditorClassIdentifier: 
+  questionText: "Fenerbah\xE7e\u2019nin efsane futbolcusu Alex de Souza\u2019n\u0131n
+    S\xFCper Lig\u2019deki gol say\u0131s\u0131 ka\xE7t\u0131r?\n"
+  options:
+  - 'A) 136 '
+  - 'B) 145 '
+  - 'C) 151 '
+  - 'D) 172 '
+  correctOptionIndex: 2

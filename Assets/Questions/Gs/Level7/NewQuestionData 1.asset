@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 213d49033bc42c0479f59452a2c89576, type: 3}
+  m_Name: NewQuestionData 1
+  m_EditorClassIdentifier: 
+  questionText: "Galatasaray, 2000 y\u0131l\u0131ndaki UEFA Kupas\u0131 maceras\u0131nda
+    \xE7eyrek finalde hangi Alman tak\u0131m\u0131n\u0131 elemi\u015Ftir?\n"
+  options:
+  - "A) Bayern M\xFCnih "
+  - 'B) Dortmund '
+  - 'C) Hamburg '
+  - 'D) Borussia Dortmund '
+  correctOptionIndex: 2
